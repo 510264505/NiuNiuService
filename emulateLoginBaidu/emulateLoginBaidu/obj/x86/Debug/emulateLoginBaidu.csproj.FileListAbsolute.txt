@@ -1,0 +1,10 @@
+D:\C#Project\emulateLoginBaidu\emulateLoginBaidu\bin\Debug\emulateLoginBaidu.exe.config
+D:\C#Project\emulateLoginBaidu\emulateLoginBaidu\bin\Debug\emulateLoginBaidu.exe
+D:\C#Project\emulateLoginBaidu\emulateLoginBaidu\bin\Debug\emulateLoginBaidu.pdb
+D:\C#Project\emulateLoginBaidu\emulateLoginBaidu\obj\x86\Debug\emulateLoginBaidu.csprojAssemblyReference.cache
+D:\C#Project\emulateLoginBaidu\emulateLoginBaidu\obj\x86\Debug\emulateLoginBaidu.frmEmulateLoginBaidu.resources
+D:\C#Project\emulateLoginBaidu\emulateLoginBaidu\obj\x86\Debug\emulateLoginBaidu.Properties.Resources.resources
+D:\C#Project\emulateLoginBaidu\emulateLoginBaidu\obj\x86\Debug\emulateLoginBaidu.csproj.GenerateResource.cache
+D:\C#Project\emulateLoginBaidu\emulateLoginBaidu\obj\x86\Debug\emulateLoginBaidu.csproj.CoreCompileInputs.cache
+D:\C#Project\emulateLoginBaidu\emulateLoginBaidu\obj\x86\Debug\emulateLoginBaidu.exe
+D:\C#Project\emulateLoginBaidu\emulateLoginBaidu\obj\x86\Debug\emulateLoginBaidu.pdb

@@ -1,0 +1,9 @@
+D:\C#Project\TestChangeMemory\TestChangeMemory\bin\Debug\TestChangeMemory.exe.config
+D:\C#Project\TestChangeMemory\TestChangeMemory\bin\Debug\TestChangeMemory.exe
+D:\C#Project\TestChangeMemory\TestChangeMemory\bin\Debug\TestChangeMemory.pdb
+D:\C#Project\TestChangeMemory\TestChangeMemory\obj\Debug\TestChangeMemory.csprojResolveAssemblyReference.cache
+D:\C#Project\TestChangeMemory\TestChangeMemory\obj\Debug\TestChangeMemory.Form1.resources
+D:\C#Project\TestChangeMemory\TestChangeMemory\obj\Debug\TestChangeMemory.Properties.Resources.resources
+D:\C#Project\TestChangeMemory\TestChangeMemory\obj\Debug\TestChangeMemory.csproj.GenerateResource.Cache
+D:\C#Project\TestChangeMemory\TestChangeMemory\obj\Debug\TestChangeMemory.exe
+D:\C#Project\TestChangeMemory\TestChangeMemory\obj\Debug\TestChangeMemory.pdb
