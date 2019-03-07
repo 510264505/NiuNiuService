@@ -17,11 +17,7 @@ namespace _11111.Network
     //主服务
     public class MainService
     {
-<<<<<<< HEAD:NN/_11111/Network/MainService.cs
-=======
-        public int 上传不成功吗 = 0;
-        //??????/????????????/
->>>>>>> 86f4b354b1a178b6cf055fec609454998d9c0e3b:NN/ _11111/网络/MainService.cs
+
         Main_Windows windows = new Main_Windows();
 
         Thread threadWatch = null; // 负责监听客户端连接请求的 线程； 
