@@ -17,8 +17,6 @@ namespace _11111.Network
     //主服务
     public class MainService
     {
-        public int 上传不成功吗 = 0;
-
         Main_Windows windows = new Main_Windows();
 
         Thread threadWatch = null; // 负责监听客户端连接请求的 线程； 
